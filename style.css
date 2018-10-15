@@ -1,0 +1,41 @@
+.main-cointainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 40px;
+}
+.cointainer{
+    margin: 5px;
+}
+p{
+    color:#3378c2;
+    font-weight: bold;
+    display: flex;
+    margin: 0px;
+    width: 200px;
+
+}
+span{
+   color: #b23322;
+   font-weight: bold;
+}
+#grey{
+    color: grey;
+}
+.card{
+    border-radius: 5px;
+    margin: 5px;
+
+}
+.card-2{
+    border:1px solid #f0a97c;
+    background: #fef8f2;
+    margin: 5px;
+    border-radius: 5px;
+}
+i{
+    color: #f7b663;
+}
+.card-subtitle{
+    font-size: 1.2em;
+}
